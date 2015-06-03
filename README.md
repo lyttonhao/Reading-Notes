@@ -8,7 +8,7 @@ Reading Notes of papers in Image Processing, Computer Vision etc.
 
 ## Super Resolution
 
-* Super-resolution Person Re-identification with Semi-coupled Low-rank Discriminant Dictionary Learning, 2015 CVPR, Xiao-Yuan Jing. [Notes](notes/2015-CVPR-super)
+* Super-resolution Person Re-identification with Semi-coupled Low-rank Discriminant Dictionary Learning, 2015 CVPR, Xiao-Yuan Jing. [Notes](Notes/2015-CVPR-super.md)
 
 ## Face Hallucination
 
