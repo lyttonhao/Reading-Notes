@@ -10,6 +10,10 @@ Reading Notes of papers in Image Processing, Computer Vision etc.
 
 * Super-resolution Person Re-identification with Semi-coupled Low-rank Discriminant Dictionary Learning, 2015 CVPR, Xiao-Yuan Jing. [Notes](Notes/2015-CVPR-super.md)
 
+## Image Denosing
+
+* CID: Combined Image Denoising in Spatial and Frequency Domains Using Web Images, 2015 CVPR, Huanjing Yue. [Notes](Notes/2014-CVPR-cid.md)
+
 ## Face Hallucination
 
 ## Color Transfer
@@ -19,3 +23,9 @@ Reading Notes of papers in Image Processing, Computer Vision etc.
 ## Image Completion
 
 * Scene Completion Using Millions of Photographs, 2007 SIGGRAPH, James Hays. [Notes](Notes/2007-SIG-scene.md)
+
+## Deep Learning
+
+* ImageNet Classification with Deep Convolutional Neural Networks, 2012 NIPS, Alex Krizhevsky.
+
+* OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks, 2014 ICLR, Pierre Sermanet. [Notes](Notes/2014-ICLR-overfeat.md)
