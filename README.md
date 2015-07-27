@@ -12,7 +12,9 @@ Reading Notes of papers in Image Processing, Computer Vision etc.
 
 ## Image Denosing
 
-* CID: Combined Image Denoising in Spatial and Frequency Domains Using Web Images, 2015 CVPR, Huanjing Yue. [Notes](Notes/2014-CVPR-cid.md)
+* CID: Combined Image Denoising in Spatial and Frequency Domains Using Web Images, 2014 CVPR, Huanjing Yue. [Notes](Notes/2014-CVPR-cid.md)
+
+* Super-Resolving Noisy Images, 2014 CVPR, Abhishek Singh. [Notes](Notes/2014-CVPR-superreolving.md)
 
 ## Face Hallucination
 
