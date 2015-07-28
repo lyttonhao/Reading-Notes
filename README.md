@@ -10,11 +10,11 @@ Reading Notes of papers in Image Processing, Computer Vision etc.
 
 * Super-resolution Person Re-identification with Semi-coupled Low-rank Discriminant Dictionary Learning, 2015 CVPR, Xiao-Yuan Jing. [Notes](Notes/2015-CVPR-super.md)
 
-## Image Denosing
+## Image Denoising
 
 * CID: Combined Image Denoising in Spatial and Frequency Domains Using Web Images, 2014 CVPR, Huanjing Yue. [Notes](Notes/2014-CVPR-cid.md)
 
-* Super-Resolving Noisy Images, 2014 CVPR, Abhishek Singh. [Notes](Notes/2014-CVPR-superreolving.md)
+* Super-Resolving Noisy Images, 2014 CVPR, Abhishek Singh. [Notes](Notes/2014-CVPR-superresolving.md)
 
 ## Face Hallucination
 
