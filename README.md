@@ -31,3 +31,6 @@ Reading Notes of papers in Image Processing, Computer Vision etc.
 * ImageNet Classification with Deep Convolutional Neural Networks, 2012 NIPS, Alex Krizhevsky.
 
 * OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks, 2014 ICLR, Pierre Sermanet. [Notes](Notes/2014-ICLR-overfeat.md)
+
+* Rich feature hierarchies for accurate object detection and semantic segmentation, 2014 CVPR, Ross Girshick. [Notes](Notes/2014-CVPR-RCNN.md)
+
