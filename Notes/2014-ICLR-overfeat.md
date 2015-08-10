@@ -1,4 +1,4 @@
-OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks
+# OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks
 
 2014 ICLR, Pierre Sermanet, David Eigen, Xiang Zhang, Michael Mathieu, Rob Fergus, Yann LeCun
 
@@ -6,7 +6,7 @@ OverFeat: Integrated Recognition, Localization and Detection using Convolutional
 
 Integrated framework for classification,localization and detection
 
-**the fully-connected layers can also be seen as 1x1 convolutions in a spatial setting**
+**The fully-connected layers can also be seen as 1x1 convolutions in a spatial setting**
 --> don't care input size
 
 * Classification
