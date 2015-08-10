@@ -34,3 +34,5 @@ Reading Notes of papers in Image Processing, Computer Vision etc.
 
 * Rich feature hierarchies for accurate object detection and semantic segmentation, 2014 CVPR, Ross Girshick. [Notes](Notes/2014-CVPR-RCNN.md)
 
+* Part-based R-CNNs for Fine-grained Category Detection， 2014 ECCV, Ning Zhang. [Notes](Notes/2014-eccv-part.md)
+
